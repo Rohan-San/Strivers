@@ -1,2 +1,2 @@
 # Strivers
-Striver's A2Z DSA Sheet solutions
+Striver's A2Z DSA Sheet solutions in C++
