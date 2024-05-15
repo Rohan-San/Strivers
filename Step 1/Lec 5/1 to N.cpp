@@ -5,3 +5,15 @@ vector<int> printNos(int x) {
     result.push_back(x);
     return result;
 }
+
+// Website shifted to GFG from CodingNinjas for some weird reason
+
+class Solution{
+    public:
+    void printNos(int N)
+    {
+        if (N<=0) return;
+        printNos(N-1);
+        cout << N << " ";
+    }
+};
